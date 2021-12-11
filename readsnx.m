@@ -1,5 +1,5 @@
 function [allStations]=readsnx(filename)
-%ling
+%east
 
 fid=fopen(filename);
 if fid==-1

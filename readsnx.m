@@ -1,5 +1,5 @@
 function [allStations]=readsnx(filename)
-
+%test conflict
 
 fid=fopen(filename);
 if fid==-1

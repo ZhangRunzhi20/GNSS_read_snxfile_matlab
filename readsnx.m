@@ -1,5 +1,5 @@
 function [allStations]=readsnx(filename)
-%linghuchong
+%yue
 
 fid=fopen(filename);
 if fid==-1
